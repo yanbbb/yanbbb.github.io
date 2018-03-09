@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0
+}
+body,html{
+    padding: 0;
+    margin: 0;
+}
+.indexContent{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+.indexContent>.indexImg{
+    margin: 10px auto;
+    width: 300px;
+    margin-bottom: 30px;
+}
+.indexContent>.indexImg img{
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px #a688dd;
+}
